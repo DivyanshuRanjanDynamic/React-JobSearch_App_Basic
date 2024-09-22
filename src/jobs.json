@@ -1,0 +1,266 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "location": "Boston, MA",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "salary": "$70K - 80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$70K - 80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "22356478768678"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Dev",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "$60K - 70K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "jobtype": "Remote",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "salary": "$70K - 80K",
+      "location": "Pheonix, AZ",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive."
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Backend Engineer",
+      "type": "Full-Time",
+      "description": "Experienced backend developer needed for building scalable APIs and microservices. Proficiency in Node.js, Express, and MongoDB required.",
+      "location": "San Francisco, CA",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Tech Innovations Inc.",
+        "description": "Tech Innovations Inc. is a cutting-edge tech firm focused on developing innovative software solutions. We're passionate about creating user-friendly applications and pushing the boundaries of what's possible with technology.",
+        "contactEmail": "careers@techinnovations.com",
+        "contactPhone": "650-123-4567"
+      }
+    },
+    {
+      "id": "9",
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "description": "Seeking an experienced DevOps professional to manage our cloud infrastructure and CI/CD pipelines. Experience with AWS and Docker is essential.",
+      "location": "New York City, NY",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "CloudTech Solutions",
+        "description": "CloudTech Solutions specializes in helping businesses migrate to and optimize their cloud environments. We're committed to providing top-notch support and innovative solutions.",
+        "contactEmail": "jobs@cloudtechsolutions.com",
+        "contactPhone": "212-987-6543"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Frontend Developer",
+      "type": "Full-Time",
+      "description": "We're looking for a skilled frontend developer to join our team. Proficiency in React, TypeScript, and modern CSS frameworks is required.",
+      "location": "Los Angeles, CA",
+      "salary": "$80K - $100K",
+      "company": {
+        "name": "WebApp Developers Inc.",
+        "description": "WebApp Developers Inc. specializes in creating responsive web applications and mobile-friendly interfaces. We prioritize user experience and performance.",
+        "contactEmail": "jobs@webappdevs.com",
+        "contactPhone": "323-456-7890"
+      }
+    },
+    {
+      "id": "11",
+      "jobListingName": "Data Scientist",
+      "description": "Experienced Data Scientist needed to work on machine learning projects and analyze large datasets. Python and R skills essential.",
+      "salary": "$175K - 200K",
+      "location": "Chicago, IL",
+      "company": {
+        "name": "Data Insights Corporation",
+        "description": "Data Insights Corp. helps businesses make data-driven decisions through advanced analytics and AI solutions. We're passionate about turning complex data into actionable insights.",
+        "companyEmail": "divyanshuranjanchannel2@gmail.com",
+        "companyPhone": "09142140020"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Mobile App Developer",
+      "type": "Full-Time",
+      "description": "Seeking a talented iOS and Android app developer to create engaging mobile experiences. Experience with Swift and Kotlin required.",
+      "location": "Austin, TX",
+      "salary": "$85K - $105K",
+      "company": {
+        "name": "MobileTech Solutions",
+        "description": "MobileTech Solutions develops innovative mobile apps for various industries. We focus on creating user-friendly interfaces and seamless user experiences.",
+        "contactEmail": "mobiletech@email.com",
+        "contactPhone": "512-123-4567"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Cloud Architect",
+      "type": "Full-Time",
+      "description": "Experienced Cloud Architect needed to design and implement scalable cloud infrastructure solutions. AWS expertise required.",
+      "location": "Denver, CO",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "CloudArchitects Inc.",
+        "description": "CloudArchitects Inc. specializes in designing and optimizing cloud architectures for businesses of all sizes. We pride ourselves on delivering secure, efficient, and cost-effective solutions.",
+        "contactEmail": "cloudarchitects@email.com",
+        "contactPhone": "303-987-6543"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Cybersecurity Engineer",
+      "type": "Full-Time",
+      "description": "Seeking an experienced Cybersecurity professional to protect our digital assets. CISSP certification preferred.",
+      "location": "Seattle, WA",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "SecureTech Solutions",
+        "description": "SecureTech Solutions provides comprehensive cybersecurity services to businesses across various industries. We're committed to staying ahead of emerging threats and protecting our clients' sensitive information.",
+        "contactEmail": "securetech@email.com",
+        "contactPhone": "206-123-4560"
+      }
+    },
+    {
+      "id": "15",
+      "title": "UX/UI Designer",
+      "type": "Full-Time",
+      "description": "Experienced UX/UI designer needed to create intuitive and visually appealing user interfaces. Portfolio required.",
+      "location": "San Francisco, CA",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "UserExperienceLab",
+        "description": "UserExperienceLab specializes in crafting exceptional user experiences through thoughtful design and research. We believe in creating products that users love and recommend.",
+        "contactEmail": "uxlab@email.com",
+        "contactPhone": "415-987-6540"
+      }
+    },
+    {
+      "id": "16",
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "description": "Seeking an experienced DevOps professional to manage our containerized application deployments. Docker and Kubernetes expertise required.",
+      "location": "New York City, NY",
+      "salary": "$115K - $135K",
+      "company": {
+        "name": "ContainerTech Solutions",
+        "description": "ContainerTech Solutions specializes in helping businesses adopt containerization technologies. We focus on improving deployment efficiency and scalability.",
+        "contactEmail": "container@email.com",
+        "contactPhone": "212-123-4567"
+      }
+    },
+    {
+      "id": "17",
+      "title": "Machine Learning Engineer",
+      "type": "Full-Time",
+      "description": "Experienced ML engineer needed to develop and deploy AI models. TensorFlow and PyTorch skills essential.",
+      "location": "Mountain View, CA",
+      "salary": "$125K - $145K",
+      "company": {
+        "name": "AI Innovations Corp.",
+        "description": "AI Innovations Corp. focuses on developing cutting-edge AI solutions for various industries. We're passionate about leveraging machine learning to solve complex problems.",
+        "contactEmail": "aiinnovations@email.com",
+        "contactPhone": "650-987-6540"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Quality Assurance Tester",
+      "type": "Full-Time",
+      "description": "Seeking a detail-oriented QA tester to ensure the highest quality of our software products. Experience with Selenium and JUnit required.",
+      "location": "Boston, MA",
+      "salary": "$70K - $90K",
+      "company": {
+        "name": "TestTech Solutions",
+        "description": "TestTech Solutions provides comprehensive testing services to help businesses deliver bug-free software. We prioritize thoroughness and efficiency in our testing processes.",
+        "contactEmail": "testtech@email.com",
+        "contactPhone": "617-123-4560"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Database Administrator",
+      "type": "Full-Time",
+      "description": "Experienced DBA needed to manage and optimize our relational databases. MySQL and PostgreSQL expertise required.",
+      "location": "New York City, NY",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "DBAdmin Solutions",
+        "description": "DBAdmin Solutions specializes in database administration and optimization services. We help businesses maintain efficient and secure database environments.",
+        "contactEmail": "dbadmin@email.com",
+        "contactPhone": "212-987-6540"
+      }
+    },
+    {
+      "id": "7dbe",
+      "title": "React & Redux  Developer ",
+      "type": "Full-Time",
+      "location": "Miami, Finland",
+      "description": "React is designed to create sophisticated user interfaces. It allows using HTML-like syntax within JavaScript code, enabling developers to create reusable components and write less code for UI implementation. React is widely used in web development due to the following features: Code Reusability",
+      "salary": "$50K - 60K",
+      "company": {
+        "name": "infotech",
+        "description": "A company description, also known as a business description, is a summary of a company's purpose, products or services, and what makes it unique. It's a key part of a business plan and should be well-thought-out, accurate, and not too long.",
+        "contactEmail": "njfcfkcnjf@gmail.com",
+        "contactPhone": "8888-444-444"
+      }
+    }
+  ]
+}
